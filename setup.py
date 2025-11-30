@@ -28,7 +28,7 @@ if VERSION.endswith('dev'):
 requirements = [
     'scipy',
     'tqdm',
-    'vllm==0.10.2',
+    # 'vllm==0.10.2',
 ]
 
 extensions = []
